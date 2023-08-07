@@ -28,3 +28,9 @@ The entry contains several test cases. Each test case is composed of a line cont
 
 Output
 Compute the average length of words in the statement of the problem, and show the classification of the problem, for more details see the example below.
+
+      Sample Input                                                  Sample output
+      This is a problem statement                                   500
+      523hi.                                                        250
+      Implement a class H5 which contains some method.              500
+       no9 . wor7ds he8re. hj..                                     250
